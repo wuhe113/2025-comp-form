@@ -1,0 +1,12 @@
+body{
+    overflow-y: scroll;
+    transition: background-color 0.8s ease, color 0.8s ease;
+}
+
+.text{
+    line-height: 80vw;
+    font-size: 5vw;
+    text-wrap: balance;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
