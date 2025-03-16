@@ -1,0 +1,13 @@
+body{
+    overflow-y: scroll;
+    background-color: black;
+}
+
+.text{
+    font-size: 2vw;
+    color: white;
+    text-wrap: balance;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    cursor: none;
+}
