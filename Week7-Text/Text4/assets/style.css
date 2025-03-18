@@ -1,0 +1,122 @@
+.container1{
+    position: fixed;
+    top: 50%;
+    left: 38%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.container2{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.container3{
+    position: fixed;
+    top: 42%;
+    left: 40%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.container4{
+    position: fixed;
+    top: 42%;
+    left: 60.5%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.container5{
+    position: fixed;
+    top: 39%;
+    left: 40%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.container6{
+    position: fixed;
+    top: 39%;
+    left: 56%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.container7{
+    position: fixed;
+    top: 39%;
+    left: 44%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.container8{
+    position: fixed;
+    top: 39%;
+    left: 50%;
+    transform: (-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+
+
+
+
+.heartText1, .heartText2, .heartText3, .heartText4, .heartText5, .heartText6, .heartText7, .heartText8{
+    width: 10px;
+    height: 10px;
+    /* background-color: red; */
+    text-align: center;
+    color: red;
+}
+
+/* .heartText2{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.heartText3{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.heartText4{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.heartText5{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.heartText6{
+    width: 10px;
+    height: 10px;
+    background-color: red;
+} */

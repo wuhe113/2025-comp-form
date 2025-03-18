@@ -1,6 +1,5 @@
 var firstText = [
-    "A",
-    "An",
+    "A",,
     "The",
     "Her",
     "His",
